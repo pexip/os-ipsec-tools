@@ -1,0 +1,9 @@
+ipsec-str_error-spelling.patch
+Fix-spelling-error-racoon.conf.5.patch
+0001-extend-setkey.8-manpage-esp-udp-tcp-md5.patch
+modify-makefile-to-let-initscript-create-var-run-directory.patch
+move-private-libraries-to-subfolder.patch
+FTBFS2_kfreebsd.patch
+patch-to-support-cast128-cbc-algorithm.patch
+support-iphone-os-main-mode-with-psk.patch
+configure-pass-Wl-with-R.patch
